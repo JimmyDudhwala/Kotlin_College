@@ -12,6 +12,28 @@ This is a simple console-based To-Do List application written in Kotlin. It allo
 - **Complete Task**: Users can mark a task as completed by its ID.
 - **Exit**: Exits the application.
 
+## Screenshots
+
+### Adding a Task
+
+![Adding a Task](images/img1.png)
+
+### Viewing Tasks
+
+![Viewing Tasks](images/view.png)
+
+### Deleting a Task
+
+![Deleting a Task](images/delet.png)
+
+### Completing a Task
+
+![Completing a Task](images/comeplete.png)
+
+### Exiting the Application
+
+![Exiting the Application](images/exit.png)
+
 ## How to Run the Application
 
 1. Ensure that Kotlin is installed on your system.
